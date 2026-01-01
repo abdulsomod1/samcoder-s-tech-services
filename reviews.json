@@ -1,0 +1,394 @@
+h[
+  {
+    "name": "Adebayo Johnson",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "SAMCODERS WORLD provided fast and reliable web development services. Highly affordable and professional!",
+    "id": 1
+  },
+  {
+    "name": "Fatima Adeyemi",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Excellent app development! They delivered on time and the quality is top-notch. Very affordable.",
+    "id": 2
+  },
+  {
+    "name": "Chukwuemeka Nwosu",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "Graphics design work was stunning and fast. Reliable service at an affordable price.",
+    "id": 3
+  },
+  {
+    "name": "Ngozi Okoye",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Bot referrals helped grow my social media. Fast, reliable, and affordable!",
+    "id": 4
+  },
+  {
+    "name": "Ibrahim Musa",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "Review services were authentic and quick. Great value for money.",
+    "id": 5
+  },
+  {
+    "name": "Amina Hassan",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Selling group active members was seamless. Professional and affordable service.",
+    "id": 6
+  },
+  {
+    "name": "Kemi Adeolu",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "CAC registration was handled professionally. Fast and reliable.",
+    "id": 7
+  },
+  {
+    "name": "Tunde Bakare",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Mentorship program was insightful. Great value and professional guidance.",
+    "id": 8
+  },
+  {
+    "name": "Rohan Kumar",
+    "location": "India",
+    "stars": "★★★★★",
+    "text": "Bot referrals helped immensely. Fast and affordable.",
+    "id": 9
+  },
+  {
+    "name": "Priya Gupta",
+    "location": "India",
+    "stars": "★★★★☆",
+    "text": "Review services were authentic. Great affordability.",
+    "id": 10
+  },
+  {
+    "name": "Arjun Rao",
+    "location": "India",
+    "stars": "★★★★★",
+    "text": "Active members were delivered promptly. Reliable.",
+    "id": 11
+  },
+  {
+    "name": "Meera Iyer",
+    "location": "India",
+    "stars": "★★★★☆",
+    "text": "CAC registration was professional and affordable.",
+    "id": 12
+  },
+  {
+    "name": "Karan Joshi",
+    "location": "India",
+    "stars": "★★★★★",
+    "text": "Mentorship was insightful. Fast and affordable.",
+    "id": 13
+  },
+  {
+    "name": "Sneha Reddy",
+    "location": "India",
+    "stars": "★★★★☆",
+    "text": "Services are reliable and affordable. Loved the experience.",
+    "id": 14
+  },
+  {
+    "name": "Vikram Nair",
+    "location": "India",
+    "stars": "★★★★★",
+    "text": "Fast delivery and professional work. Highly affordable.",
+    "id": 15
+  },
+  {
+    "name": "Ananya Sharma",
+    "location": "India",
+    "stars": "★★★★☆",
+    "text": "Web development exceeded expectations. Professional and affordable.",
+    "id": 16
+  },
+  {
+    "name": "Rahul Verma",
+    "location": "India",
+    "stars": "★★★★★",
+    "text": "App development was outstanding. Delivered on time and budget.",
+    "id": 17
+  },
+  {
+    "name": "Pooja Singh",
+    "location": "India",
+    "stars": "★★★★☆",
+    "text": "Graphics design was creative and fast. Great value.",
+    "id": 18
+  },
+  {
+    "name": "Amit Patel",
+    "location": "India",
+    "stars": "★★★★★",
+    "text": "Bot referrals boosted my online presence significantly.",
+    "id": 19
+  },
+  {
+    "name": "Neha Jain",
+    "location": "India",
+    "stars": "★★★★☆",
+    "text": "Review services were genuine and helped my ratings.",
+    "id": 20
+  },
+  {
+    "name": "Suresh Kumar",
+    "location": "India",
+    "stars": "★★★★★",
+    "text": "Active members increased engagement tremendously.",
+    "id": 21
+  },
+  {
+    "name": "Kavita Rao",
+    "location": "India",
+    "stars": "★★★★☆",
+    "text": "CAC registration process was smooth and professional.",
+    "id": 22
+  },
+  {
+    "name": "Rajesh Gupta",
+    "location": "India",
+    "stars": "★★★★★",
+    "text": "Mentorship provided valuable insights for my business.",
+    "id": 23
+  },
+  {
+    "name": "Divya Nair",
+    "location": "India",
+    "stars": "★★★★☆",
+    "text": "Overall services are excellent and affordable.",
+    "id": 24
+  },
+  {
+    "name": "Mohammed Ali",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Web development transformed my business website completely.",
+    "id": 25
+  },
+  {
+    "name": "Grace Okafor",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "App development was user-friendly and feature-rich.",
+    "id": 26
+  },
+  {
+    "name": "Emeka Eze",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Graphics design captured my brand perfectly.",
+    "id": 27
+  },
+  {
+    "name": "Zara Ahmed",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "Bot referrals increased my followers rapidly.",
+    "id": 28
+  },
+  {
+    "name": "Samuel Ade",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Review services improved my app store presence.",
+    "id": 29
+  },
+  {
+    "name": "Blessing Nwankwo",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "Active members brought life to my community.",
+    "id": 30
+  },
+  {
+    "name": "David Ogunleye",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "CAC registration was straightforward and quick.",
+    "id": 31
+  },
+  {
+    "name": "Chioma Obi",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "Mentorship helped me grow my business knowledge.",
+    "id": 32
+  },
+  {
+    "name": "John Okafor",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Web development services are top-tier and affordable.",
+    "id": 33
+  },
+  {
+    "name": "Mary Johnson",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "App development delivered exactly what I needed.",
+    "id": 34
+  },
+  {
+    "name": "Peter Nwosu",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Graphics design was innovative and professional.",
+    "id": 35
+  },
+  {
+    "name": "Sarah Adebayo",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "Bot referrals service exceeded my expectations.",
+    "id": 36
+  },
+  {
+    "name": "Michael Eze",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Review services were authentic and effective.",
+    "id": 37
+  },
+  {
+    "name": "Elizabeth Okoro",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "Active members service was reliable and fast.",
+    "id": 38
+  },
+  {
+    "name": "James Adeolu",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "CAC registration was handled expertly.",
+    "id": 39
+  },
+  {
+    "name": "Victoria Bakare",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "Mentorship program was enlightening and valuable.",
+    "id": 40
+  },
+  {
+    "name": "Ahmed Hassan",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Web development created a stunning online presence.",
+    "id": 41
+  },
+  {
+    "name": "Funmi Adeyemi",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "App development was innovative and user-centric.",
+    "id": 42
+  },
+  {
+    "name": "Chinedu Okoye",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Graphics design brought my vision to life.",
+    "id": 43
+  },
+  {
+    "name": "Adanna Musa",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "Bot referrals grew my social media exponentially.",
+    "id": 44
+  },
+  {
+    "name": "Olu Adebayo",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Review services boosted my app ratings significantly.",
+    "id": 45
+  },
+  {
+    "name": "Nneka Nwosu",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "Active members increased community interaction.",
+    "id": 46
+  },
+  {
+    "name": "Ikechukwu Eze",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "CAC registration was efficient and professional.",
+    "id": 47
+  },
+  {
+    "name": "Amara Okoro",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "Mentorship provided practical business strategies.",
+    "id": 48
+  },
+  {
+    "name": "Uche Okafor",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Web development services are exceptional quality.",
+    "id": 49
+  },
+  {
+    "name": "Bola Johnson",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "App development was delivered ahead of schedule.",
+    "id": 50
+  },
+  {
+    "name": "Kelechi Nwankwo",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Graphics design was creative and impactful.",
+    "id": 51
+  },
+  {
+    "name": "Adaeze Obi",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "Bot referrals service was highly effective.",
+    "id": 52
+  },
+  {
+    "name": "Chukwuma Ade",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "Review services improved my online reputation.",
+    "id": 53
+  },
+  {
+    "name": "Ifunanya Eze",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "Active members service was prompt and reliable.",
+    "id": 54
+  },
+  {
+    "name": "Obinna Ogunleye",
+    "location": "Nigeria",
+    "stars": "★★★★★",
+    "text": "CAC registration process was seamless.",
+    "id": 55
+  },
+  {
+    "name": "Chinwe Bakare",
+    "location": "Nigeria",
+    "stars": "★★★★☆",
+    "text": "Mentorship offered valuable industry insights.",
+    "id": 56
+  }
+]
