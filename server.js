@@ -7,6 +7,11 @@ app.use(cors());
 app.use(express.json());
 app.use(express.static('.'));
 
+// Serve index.html for root route
+app.get('/', (req, res) => {
+    res.sendFile(__dirname + '/index.html');
+});
+
 // Supabase configuration
 const supabaseUrl = 'https://bdavjlluaniklekedfpz.supabase.co';
 const supabaseKey = 'sb_publishable_QylR_YspnbuapMaFAnLM7g_42cMVXCB';
